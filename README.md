@@ -137,8 +137,6 @@ POST /checkout
 
 Database design document:
 
-```txt
-[https://docs.google.com/document/d/YOUR_DOCUMENT_ID](https://docs.google.com/document/d/1bYAmSexijaXtAVsoOjAeYOJ8UlSuv1SEjwAmWqWeHo4/edit?tab=t.0)
-```
+https://docs.google.com/document/d/1bYAmSexijaXtAVsoOjAeYOJ8UlSuv1SEjwAmWqWeHo4/edit?tab=t.0
 
 ---
